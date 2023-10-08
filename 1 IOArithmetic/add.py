@@ -5,3 +5,4 @@ firstnum, secondnum = map(int, fin.readline().split())
 
 fout.write(str(firstnum + secondnum))
 fout.close()
+
